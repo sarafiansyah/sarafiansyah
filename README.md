@@ -1,7 +1,6 @@
 <h1 align="center">Mahesa Rafian Syah</h1>
 <h3 align="center"> Graphic Designer & Frontend Developer</h3>
 
-**About me 🧑‍💻**
 - 👋 Hi! I'm Mahesa! Graduated IT Student since August 2024.
 - 🔭 I’m currently working on **Web Development using Next.js Framework** 
 - 🌱 I’m currently learning **React Native** 
