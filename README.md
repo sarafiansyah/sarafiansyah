@@ -57,6 +57,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarafiansyah&show_icons=true&locale=en&layout=compact" alt="sarafiansyah"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarafiansyah&show_icons=true&locale=en" alt="sarafiansyah"/></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarafiansyah&" alt="sarafiansyah"/></p>
